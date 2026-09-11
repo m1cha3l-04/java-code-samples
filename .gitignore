@@ -1,5 +1,6 @@
 # ignore folders from java-iteration-examples
-java-iteration-examples/*
+java-iteration-examples/.vscode
+java-iteration-examples/lib
 
 # exempt /src
-!java-iteration-examples/src/*
+!java-iteration-examples/src/
