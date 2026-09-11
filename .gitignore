@@ -1,0 +1,5 @@
+# ignore folders from java-iteration-examples
+java-iteration-examples/
+
+# exempt /src
+!java-iteration-examples/src/
